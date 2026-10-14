@@ -1,0 +1,14 @@
+## Interface: 11509
+## Title: Juju Turn In
+## Notes: Automates Juju turn-ins with Witch Doctor Mau'ari.
+## Author: Liriko
+## Version: 1.0.0
+## SavedVariables: JujuTurnInDB
+
+Constants.lua
+Utils.lua
+Database.lua
+Config.lua
+Minimap.lua
+QuestHandler.lua
+Core.lua
