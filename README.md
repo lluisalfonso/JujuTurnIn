@@ -6,7 +6,7 @@ A World of Warcraft Classic Era addon that automates Juju turn-ins with Witch Do
 
 - **Smart Mode:** Automatically turns in Jujus from your bags, prioritizing the Juju you have the most of.
 - **Favorite Juju:** When Smart Mode is disabled, turns in your selected favorite Juju.
-- **Automatic mode:** Leave all Jujus checked to let the addon handle turn-ins automatically.
+- **Automatic mode:** Leave all config options checked to let the addon handle turn-ins automatically.
 
 ## Installation
 
